@@ -1,6 +1,8 @@
-![Gray And Black  Simple Personal LinkedIn Banner](https://github.com/ikramabukar/ikramabukar/assets/25725014/ad031e69-a3f6-4484-a7d9-de679e3e8951)
 
-<h1 align ="center"> Hi there,  my name is Ikram and I'm a React Developer 👋🏾 </h1> 
+
+<h1 align ="center"> Hi, I'm Ikram 👋🏾 </h1> 
+
+![Clean Work Place LinkedIn Banner](https://github.com/ikramabukar/ikramabukar/assets/25725014/aa066a2f-47bf-4e7f-a780-72ff53af2815)
 
 <h2 align = "center" >💼 Technical Skills</h2> 
 
@@ -11,7 +13,17 @@
 
 Greetings! My name is Ikram, and I'm an enthusiastic self-taught React developer. I am genuinely excited about the endless possibilities that web development offers and look forward to further challenges and opportunities to create exceptional web applications that make a positive impact. Thank you for taking the time to get to know me, and I'm eager to explore potential collaborations and share my passion for web development with others.
 
+<h2 align = "center" >My Interests</h2>
+<ul> 
+ <li> 💡  I like to learn about new technologies and developing my programming skills. </li> 
+<li>🎓  I've  currently studying Frontend Development with Luul Solutions. </li>
+<li>🌱  I'm hoping to learn NodeJS and delve into backend development. </li>
+<li> ✉️  You can shoot me an email at IkramAbukar@protonmail.com.  I'll respond as quickly as I can. </li>
+</ul>
 
-<h2 align= "center> 🤝🏾 Connect with me: </h2>
+<h2 align = "center" >Projects </h2>
+<ul> 
+ <li> Atomic Poetry: A Poetry Search Engine built using React / BootStrap </li> 
 
-<a href="https://www.linkedin.com/in/ikramabukar/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="21px"/></a>
+
+
