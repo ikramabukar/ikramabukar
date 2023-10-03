@@ -15,7 +15,7 @@ Greetings! My name is Ikram, and I'm an enthusiastic self-taught React developer
 
 <h2 align = "center" >My Interests</h2>
 <ul> 
- <li> 💡  I like to learn about new technologies and developing my programming skills. </li> 
+ <li> 💡  I like to learn about new technologies and develop my programming skills. </li> 
 <li>🎓  I've  currently studying Frontend Development with Luul Solutions. </li>
 <li>🌱  I'm hoping to learn NodeJS and delve into backend development. </li>
 <li> ✉️  You can shoot me an email at IkramAbukar@protonmail.com.  I'll respond as quickly as I can. </li>
