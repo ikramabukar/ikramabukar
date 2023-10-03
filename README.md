@@ -11,7 +11,7 @@
 
 <h2 align = "center"> 🧕🏾 About Me</h2>
 
-Greetings! My name is Ikram, and I'm an enthusiastic self-taught React developer. I am genuinely excited about the endless possibilities that web development offers and look forward to further challenges and opportunities to create exceptional web applications that make a positive impact. Thank you for taking the time to get to know me, and I'm eager to explore potential collaborations and share my passion for web development with others.
+Greetings! My name is Ikram, and I'm an enthusiastic self-taught React developer. I am genuinely excited about the endless possibilities that web development offers and look forward to further challenges and opportunities to create exceptional web applications that make a positive impact.  I'm eager to explore potential collaborations and share my passion for web development with others.
 
 <h2 align = "center" >My Interests</h2>
 <ul> 
